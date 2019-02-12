@@ -1,2 +1,17 @@
 # Data_with_insight
-My Data Science Projects
+
+Loan Prediction
+
+Problem
+Dream Housing Finance company wants to automate the loan eligibility process (real-time) based on customer detail provided while filling an online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customer segments, those are eligible for loan amount so that they can specifically target these customers. Here they have provided a partial data set.
+
+This Project aims to reduce the risk incurred by the company and a per identifying the customers who are eligible for loan amount using various classification algorithms.
+Oversampling was done to balance the Dataset was done using SMOTE.
+Missing values were replaced by the mean, median and mode value as per the distribution of the data.
+Achieved an accuracy of 80% minimizing the risk incurred by the company.
+
+Technologies
+This project involves all code written in Python
+
+Presentation
+This presentation will give an overview of the project methods used and results.
