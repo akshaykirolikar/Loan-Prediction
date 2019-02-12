@@ -13,5 +13,5 @@ Achieved an accuracy of 80% minimizing the risk incurred by the company.
 ## Technologies[a relative link](loan_prediction.py)
 This project involves all code written in Python
 
-## Presentation [a relative link](loan_prediction.py)
+## Presentation [a relative link](Loan_pred_presentation.pdf)
 This presentation will give an overview of the project methods used and results.
