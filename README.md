@@ -10,7 +10,7 @@ Oversampling was done to balance the Dataset was done using SMOTE (Synthetic Min
 Missing values were replaced by the mean, median and mode value as per the distribution of the data.
 Achieved an accuracy of 80% minimizing the risk incurred by the company.
 
-## Technologies[a relative link](loan_prediction.py)
+## Technologies [a relative link](loan_prediction.py)
 This project involves all code written in Python
 
 ## Presentation [a relative link](Loan_pred_presentation.pdf)
