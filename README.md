@@ -1,6 +1,4 @@
-# Data_with_insight
-
-## Loan Prediction 
+# Loan Prediction 
 
 ## Problem
 Dream Housing Finance company wants to automate the loan eligibility process (real-time) based on customer detail provided while filling an online application form. These details are Gender, Marital Status, Education, Number of Dependents, Income, Loan Amount, Credit History and others. To automate this process, they have given a problem to identify the customer segments, those are eligible for loan amount so that they can specifically target these customers. Here they have provided a partial data set.
